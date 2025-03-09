@@ -1,3 +1,5 @@
+# Blogify
+
 Blogify: Your Ultimate Platform for Effortless Blogging
 In today’s digital world, everyone has a story to tell. Whether you’re a passionate writer, a photographer capturing life’s moments, or a business sharing insights, having a platform to express yourself is crucial. That’s where Blogify comes in—a simple, powerful, and user-friendly blogging platform designed for effortless content sharing.
 
